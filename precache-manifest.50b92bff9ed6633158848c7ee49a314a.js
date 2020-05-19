@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/LightsOut/static/js/runtime~main.135e1143.js"
   },
   {
-    "revision": "05c042112b412e41678546f007983cb3",
+    "revision": "e97959e4b7113702ebdf48abbf9bcb73",
     "url": "/LightsOut/index.html"
   }
 ];
